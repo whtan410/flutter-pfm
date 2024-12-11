@@ -91,8 +91,6 @@ Path: Firebase Console > Authentication > Sign-in providers
       allow read: if request.auth != null;
       allow update, delete: if isOwner();
     }
-  }
-}```
 
 8. Cloud Firestore Indexes setup
     ```
