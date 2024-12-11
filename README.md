@@ -122,22 +122,25 @@ Path: Firebase Console > Authentication > Sign-in providers
    Note: Ensure you have an Android emulator running or physical device connected
 
 ## End Product
-Page 1 
+
 ![alt text](./assets/image-2.png)
 
+Page 1 
 - User Authentication Page
 - Users are able to log in or sign up using Email or Google Authentication.
 
-Page 2 
+
 ![alt text](./assets/image-3.png)
 
+Page 2 
 - Summary Page
 - Users are able to view or delete their current spending.
 - Users can also add new expenses.
 
-Page 3 
+ 
 ![alt text](./assets/image-4.png)
 
+Page 3
 - Monthly View Page
 - Users are able to set their monthly budget.
 - A progress bar is available to check how much they have spent compared to their budget.
@@ -145,9 +148,10 @@ Page 3
 
 ![alt text](./assets/image-5.png)
 
-Page 4
+
 ![alt text](./assets/image-6.png)
 
+Page 4
 - Yearly View Page
 - Users are able to view their yearly spending by category.
 
